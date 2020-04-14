@@ -1,9 +1,12 @@
+/* Reset */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+/* Fine Reset */
 
+/* Proprietà sfondo Milano */
 .sfondomilano {
   background-image: url(../img/milano.jpg);
   position: relative;
@@ -13,13 +16,17 @@
   background-size: cover;
   margin: 10px;
 }
+/* Fine Proprietà sfondo Milano */
 
+/* Proprietà filtro fumè*/
 .filtro {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
 }
+/* Fine Proprietà filtro fumè*/
 
+/* Proprietà h2*/
 h2 {
   position: absolute;
   top: 50%;
@@ -28,9 +35,10 @@ h2 {
   color: white;
   font-size: 7em;
   font-family: arial;
-
 }
+/* Fine Proprietà h2*/
 
+/* Proprietà sfondo Roma */
 .sfondoroma {
   background-image: url(../img/roma.jpg);
   position: relative;
@@ -40,7 +48,9 @@ h2 {
   background-size: cover;
   margin: 10px;
 }
+/* Fine Proprietà sfondo Roma */
 
+/* Proprietà sfondo Napoli */
 .sfondonapoli {
   background-image: url(../img/napoli.jpg);
   position: relative;
@@ -50,7 +60,10 @@ h2 {
   background-size: cover;
   margin: 10px;
 }
+/* Fine Proprietà sfondo Napoli */
 
+/* Proprietà link */
 h2:hover {
   text-shadow: 0 0 30px #FF0000;
 }
+/* Fine Proprietà link */
